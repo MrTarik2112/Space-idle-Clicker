@@ -1,1 +1,1 @@
-# Space-dle-Clicker
+# Space-idle-Clicker
